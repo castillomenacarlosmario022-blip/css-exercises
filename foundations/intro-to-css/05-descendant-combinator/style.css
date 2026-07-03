@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+div p{
+
+    background-color: rgb(255, 187, 0);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+
+}
